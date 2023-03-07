@@ -1,0 +1,21 @@
+{
+    "ftp":{
+        "server":"file.unitedway.com.co",
+        "port":21,
+        "user": "unitedwa_certificates@file.unitedway.com.co",
+        "password": "2P*j$l90o^&PJV2U6I!&seyg60fyT0",
+        "http_path": "https://file.unitedway.com.co/files/certificados/"
+    },
+    "paths":{
+        "certificates": "C:/Users/jiliar.silgado/Documents/certificados/pdfs/",
+        "logs":"logs/certificates-manager.log",
+        "banner":"config/banner.txt"
+    },
+    "db":{
+        "user":"admin",
+        "password":"1234",
+        "database":"test",
+        "server":"localhost",
+        "port":"3306"
+    }
+}
